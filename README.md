@@ -38,7 +38,7 @@ The API currently maps only a subset of the `cloc` command-line options. Support
 ### How can I request a feature or ask a question?
 
 If you have ideas for a feature that you would like to see implemented or if you have any questions, we encourage you to
-create a new [discussion](https://github.comUSIREVEAL/pycloc/discussions). By initiating a discussion, you can engage with the community and our
+create a new [discussion](https://github.com/USIREVEAL/pycloc/discussions). By initiating a discussion, you can engage with the community and our
 team, and we will respond promptly to address your queries or consider your feature requests.
 
 ### How can I report a bug?
