@@ -1,10 +1,14 @@
-# pycloc 
+# pycloc - DEPRECATED
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 Python wrapper for the [cloc](https://github.com/AlDanial/cloc) CLI tool. 
 
-This package is currently available on PyPI as `pycloctest` and installable via `pip install pycloctest`. This might change in the future.
 The new, refactored version of this library is available at [pycloc](https://github.com/pycloc/pycloc).
-
+> [!WARNING]  
+> This package is currently available on PyPI as `pycloctest` and installable via `pip install pycloctest`. 
+> This might change in the future, as this repository is DEPRECATED.
+ 
 ## Requirements
 
 This library requires you to have `cloc` installed on your system.
