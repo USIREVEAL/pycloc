@@ -1,7 +1,9 @@
-# pycloc
+# pycloc 
 
-Python wrapper for the [cloc](https://github.com/AlDanial/cloc) CLI tool. This package currently available on PyPI as `pycloctest` and installable via `pip install pycloctest`.
-We are working to move it to `pycloc` on PyPI.
+Python wrapper for the [cloc](https://github.com/AlDanial/cloc) CLI tool. 
+
+This package is currently available on PyPI as `pycloctest` and installable via `pip install pycloctest`. This might change in the future.
+The new, refactored version of this library is available at [pycloc](https://github.com/pycloc/pycloc).
 
 ## Requirements
 
